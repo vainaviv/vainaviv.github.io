@@ -287,6 +287,10 @@ p a {
     transform: translate(-50%);
 }
 
+#resumebutton_box a {
+    text-decoration: none;
+}
+
 #resume_bttn {
     position: relative;
     text-decoration: none;
